@@ -34,7 +34,7 @@ a: not (.no-highlight){
   background-color: #719e07;
 }
 
-.no-highlight {
+.no-highlight:nth-of-type(2){
   background-color: #2694d8;
 }
 
