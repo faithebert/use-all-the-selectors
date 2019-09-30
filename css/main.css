@@ -25,3 +25,15 @@ nav > ul {
 .wrapper > .dfn {
   background-color: #b58900;
 }
+
+.dfn > strong + p {
+  color: #fff;
+}
+
+a {
+  background-color: #719e07;
+}
+
+.no-highlight {
+  background-color: none;
+}
