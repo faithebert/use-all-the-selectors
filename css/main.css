@@ -37,3 +37,7 @@ a {
 .no-highlight {
   background-color: none;
 }
+
+ul > .contents > rel="external" {
+  background-color: #719e07;
+}
